@@ -46,4 +46,20 @@ h3 {
 ul {
   margin-left: 1em;
 }
+.cv-btn {
+  display: inline-block;
+  background: #31316d;
+  color: #fff;
+  padding: 0.7em 2em;
+  border-radius: 32px;
+  font-size: 1em;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(40,40,100,0.08);
+  margin: 1em 0;
+  transition: background 0.2s;
+}
+.cv-btn:hover {
+  background: #2360b1;
+}
 
