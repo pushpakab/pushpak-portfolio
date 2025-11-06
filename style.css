@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif; /* Sets a clean font for the whole page */
+    margin: 0;
+    background: #f8f9fa; /* Light background color */
+    color: #222; /* Dark text for contrast */
+}
+nav {
+    background: #333;
+    padding: 1em;
+}
+nav a {
+    color: #fff; /* White links in nav */
+    margin-right: 1.5em; /* Space between links */
+    text-decoration: none; /* No underline */
+}
+section {
+    background: #fff;
+    margin: 2em auto;
+    padding: 1em;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(50,50,50,0.08); /* Soft shadow */
+    max-width: 600px; /* Keeps content readable */
+}
+h1, h2 {
+    color: #31316d; /* Accent color for headings */
+}
